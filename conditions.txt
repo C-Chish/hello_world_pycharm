@@ -1,0 +1,14 @@
+if it's hot(condition)
+tell user: 'drink plenty of water'
+otherwise if it's cold(condition)
+tell user: 'its a cold day, wear warm clothes'
+otherwise:(condition)'its a lovely day'
+
+price of house 1mil
+if buyer has good credit, they need to put down 10%
+otherwise
+they need to put down 20% of property
+print down the down payment for a buyer w/ good credit
+
+if applicant has high income AND good credit then they are
+eligible for a loan
